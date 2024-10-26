@@ -1,0 +1,18 @@
+
+.header{
+    height: 300px;
+    background-image:url(images/images\ \(1\).jpeg);
+    /* background-repeat:no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-size: cover; */
+    background-size:contain;
+    background-position:right top;
+}
+.dolor{
+    border: 2px solid black;
+    /* height: 60px;=>not working */
+    display: block;
+    height: 60px;
+    display: inline-block;
+
+}
